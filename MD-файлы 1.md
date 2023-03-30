@@ -376,7 +376,7 @@ item семь символов ( ␣␣␣␣␣-␣ ), в строке элем
 
 Команда:
 
-\@octocat \:+1: This PR looks great - it's ready to merge! \:shipit\:
+![](https://sun9-16.userapi.com/impg/hxKa0PJeb_UCxLtUw2PT26M1-j0YRFg7GtFYTg/WFRlO9RUkzE.jpg?size=791x40&quality=96&sign=76e261c06070a30bdbdc9ae11d37a77b&type=album)  
 
 Результат:
 ![](https://docs.github.com/assets/cb-28666/mw-1000/images/help/writing/emoji-rendered.webp)
